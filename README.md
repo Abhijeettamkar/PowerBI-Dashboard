@@ -1,1 +1,1 @@
-# PowerBI-Dashboard Natural Chocolate Sales Dashboard
+Natural Chocolate Sales Dashboard
